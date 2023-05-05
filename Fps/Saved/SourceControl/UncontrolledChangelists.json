@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/DanielSierra/Documents/Unreal Projects/Fps/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/DanielSierra/Documents/Unreal Projects/Fps/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/DanielSierra/Documents/Unreal Projects/Fps/Content/UI.uasset",
+				"C:/Users/DanielSierra/Documents/Unreal Projects/Fps/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/DanielSierra/Documents/Unreal Projects/Fps/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/DanielSierra/Documents/Unreal Projects/Fps/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/DanielSierra/Documents/Unreal Projects/Fps/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/DanielSierra/Documents/Unreal Projects/Fps/Content/LevelPrototyping/Meshes/M_SM_Cube_M_CobbleStone_Pebble_A6B5225946BA2C2CB87EA5AE3A8256A7.uasset",
+				"C:/Users/DanielSierra/Documents/Unreal Projects/Fps/Content/CanvasUI.uasset",
+				"C:/Users/DanielSierra/Documents/Unreal Projects/Fps/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
+				"C:/Users/DanielSierra/Documents/Unreal Projects/Fps/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset"
+			]
+		}
+	]
+}
